@@ -1,18 +1,19 @@
-# Diversity in STEM Data Analysis
+# Diversity in STEM Data Analysis - Berea College
 
-This repository contains our team's work on analyzing diversity in STEM at Berea College.
+This repository contains our team's work on analyzing diversity in STEM at Berea College. We are a group of 6 TAs working on this project as part of the Diversity in STEM committee.
 
-## Setup
+## Getting Started
 
-1. Run the setup script:
+1. Clone the repository:
    ```
-   python setup_repository.py
+   git clone https://github.com/BC-CS-Website-Team/DiversityInStem.git
+   cd diversity-stem-analysis
    ```
 
-2. Create a virtual environment:
+2. Create and activate a virtual environment:
    ```
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scriptsctivate`
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
 3. Install required packages:
@@ -20,22 +21,52 @@ This repository contains our team's work on analyzing diversity in STEM at Berea
    pip install -r requirements.txt
    ```
 
-4. Start Jupyter Notebook:
+## Workflow
+
+1. Create a new branch for your task:
    ```
-   jupyter notebook
+   git checkout -b feature/your-feature-name
    ```
+
+2. Make your changes and commit them:
+   ```
+   git add .
+   git commit -m "Descriptive commit message"
+   ```
+
+3. Push your branch to GitHub:
+   ```
+   git push origin feature/your-feature-name
+   ```
+
+4. Create a pull request on GitHub for review.
+
+5. After review and approval, your changes will be merged into the main branch.
 
 ## Repository Structure
 
 - `notebooks/`: Jupyter notebooks for analysis
 - `scripts/`: Python scripts for reusable functions
-- `data/`: Raw and processed data files
+- `data/`: Raw and processed data files (remember to anonymize sensitive data)
 - `results/figures/`: Generated visualizations
 
-## Contributing
+## Team Guidelines
 
-1. Create a new branch for your work
-2. Make your changes and commit them
-3. Push your branch and create a pull request for review
+- Always create a new branch for each task or analysis.
+- Use clear, descriptive names for branches, commits, and pull requests.
+- Review each other's pull requests promptly.
+- Keep notebooks clean: clear cell outputs before committing.
+- Document your analysis steps and findings in markdown cells.
 
-Please ensure all sensitive data is properly anonymized before committing.
+## Resources
+
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+## Questions or Issues?
+
+If you have any questions or run into issues, please reach out to Nicholas Hamilton or create an issue on GitHub.
+
+Happy analyzing!
