@@ -1,265 +1,265 @@
-ID IPEDS Race,IPEDS Race,ID Year,Year,Enrollment,University,ID University,Slug University,share
-"asian","Asian",2022,"2022",35689,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.043736251616105296
-"black","Black or African American",2022,"2022",112349,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.1376817544010147
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2022,"2022",2044,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.002504886612214386
-"hispanic","Hispanic or Latino",2022,"2022",117930,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14452117327712452
-"multiracial","Two or More Races",2022,"2022",33749,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.041358815203338214
-"native","American Indian or Alaska Native",2022,"2022",6334,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007762207339415812
-"nonresident","Non-resident Alien",2022,"2022",42268,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.05179870221383447
-"white","White",2022,"2022",465642,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5706362093369526
-"asian","Asian",2022,"2022",17218,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04762194514819281
-"black","Black or African American",2022,"2022",41801,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11561417871643674
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2022,"2022",504,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0013939749305778358
-"hispanic","Hispanic or Latino",2022,"2022",38326,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.10600294283596455
-"multiracial","Two or More Races",2022,"2022",16913,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04677836904933123
-"native","American Indian or Alaska Native",2022,"2022",2486,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006875836661540674
-"nonresident","Non-resident Alien",2022,"2022",22037,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.06095044751020589
-"white","White",2022,"2022",222271,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6147623051477503
-"asian","Asian",2022,"2022",55,"Berea College","156295","berea-college",0.038896746817538894
-"black","Black or African American",2022,"2022",264,"Berea College","156295","berea-college",0.1867043847241867
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2022,"2022",1,"Berea College","156295","berea-college",0.0007072135785007072
-"hispanic","Hispanic or Latino",2022,"2022",218,"Berea College","156295","berea-college",0.15417256011315417
-"multiracial","Two or More Races",2022,"2022",125,"Berea College","156295","berea-college",0.0884016973125884
-"native","American Indian or Alaska Native",2022,"2022",0,"Berea College","156295","berea-college",0
-"nonresident","Non-resident Alien",2022,"2022",119,"Berea College","156295","berea-college",0.08415841584158416
-"white","White",2022,"2022",632,"Berea College","156295","berea-college",0.44695898161244696
-"asian","Asian",2021,"2021",34707,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04266705022386463
-"black","Black or African American",2021,"2021",114981,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14135189160083497
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2021,"2021",2125,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.002612368736154446
-"hispanic","Hispanic or Latino",2021,"2021",113880,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.1399983772580086
-"multiracial","Two or More Races",2021,"2021",37060,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04555971075853353
-"native","American Indian or Alaska Native",2021,"2021",6461,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007942830307903
-"nonresident","Non-resident Alien",2021,"2021",36406,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.044755715862794705
-"white","White",2021,"2021",467818,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5751120552519061
-"asian","Asian",2021,"2021",16885,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04657918185053283
-"black","Black or African American",2021,"2021",41522,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11454313229480746
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2021,"2021",487,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0013434445698080834
-"hispanic","Hispanic or Latino",2021,"2021",37935,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.1046479871779664
-"multiracial","Two or More Races",2021,"2021",16442,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04535711625623102
-"native","American Indian or Alaska Native",2021,"2021",2767,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.007633082391496851
-"nonresident","Non-resident Alien",2021,"2021",20928,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.05773225453171164
-"white","White",2021,"2021",225535,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6221638009274457
-"asian","Asian",2021,"2021",54,"Berea College","156295","berea-college",0.03706245710363761
-"black","Black or African American",2021,"2021",268,"Berea College","156295","berea-college",0.18393960192175704
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2021,"2021",2,"Berea College","156295","berea-college",0.0013726835964310226
-"hispanic","Hispanic or Latino",2021,"2021",208,"Berea College","156295","berea-college",0.14275909402882636
-"multiracial","Two or More Races",2021,"2021",126,"Berea College","156295","berea-college",0.08647906657515443
-"native","American Indian or Alaska Native",2021,"2021",0,"Berea College","156295","berea-college",0
-"nonresident","Non-resident Alien",2021,"2021",115,"Berea College","156295","berea-college",0.0789293067947838
-"white","White",2021,"2021",684,"Berea College","156295","berea-college",0.46945778997940973
-"asian","Asian",2020,"2020",34234,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.041273729923152785
-"black","Black or African American",2020,"2020",118736,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14315235135115584
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2020,"2020",2129,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.002566798241701007
-"hispanic","Hispanic or Latino",2020,"2020",115857,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.13968132639208716
-"multiracial","Two or More Races",2020,"2020",35489,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04278680263021468
-"native","American Indian or Alaska Native",2020,"2020",6552,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007899324602923908
-"nonresident","Non-resident Alien",2020,"2020",39888,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04809039373648181
-"white","White",2020,"2020",476553,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5745492731222828
-"asian","Asian",2020,"2020",16321,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.045381997352879025
-"black","Black or African American",2020,"2020",41606,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11568919685459743
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2020,"2020",503,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0013986363990256816
-"hispanic","Hispanic or Latino",2020,"2020",37948,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.10551780133245837
-"multiracial","Two or More Races",2020,"2020",15771,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.043852673258516946
-"native","American Indian or Alaska Native",2020,"2020",2704,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.007518713365736467
-"nonresident","Non-resident Alien",2020,"2020",19285,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.05362366392685938
-"white","White",2020,"2020",225498,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6270173175099267
-"asian","Asian",2020,"2020",43,"Berea College","156295","berea-college",0.030196629213483147
-"black","Black or African American",2020,"2020",252,"Berea College","156295","berea-college",0.17696629213483145
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2020,"2020",2,"Berea College","156295","berea-college",0.0014044943820224719
-"hispanic","Hispanic or Latino",2020,"2020",202,"Berea College","156295","berea-college",0.14185393258426968
-"multiracial","Two or More Races",2020,"2020",122,"Berea College","156295","berea-college",0.08567415730337079
-"native","American Indian or Alaska Native",2020,"2020",1,"Berea College","156295","berea-college",0.0007022471910112359
-"nonresident","Non-resident Alien",2020,"2020",91,"Berea College","156295","berea-college",0.06390449438202248
-"white","White",2020,"2020",711,"Berea College","156295","berea-college",0.49929775280898875
-"asian","Asian",2019,"2019",33951,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03994329278335961
-"black","Black or African American",2019,"2019",124482,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14645285771429917
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2019,"2019",2138,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0025153533024306453
-"hispanic","Hispanic or Latino",2019,"2019",116429,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.1369785171415798
-"multiracial","Two or More Races",2019,"2019",34370,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04043624555871903
-"native","American Indian or Alaska Native",2019,"2019",6387,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007514294453987153
-"nonresident","Non-resident Alien",2019,"2019",41365,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04866585096119909
-"white","White",2019,"2019",490858,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5774935880844255
-"asian","Asian",2019,"2019",16562,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04440654971136547
-"black","Black or African American",2019,"2019",42260,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11330882688095066
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2019,"2019",546,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0014639521882867737
-"hispanic","Hispanic or Latino",2019,"2019",37299,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.10000723932400801
-"multiracial","Two or More Races",2019,"2019",15541,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04166901274389149
-"native","American Indian or Alaska Native",2019,"2019",2547,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006829095647557532
-"nonresident","Non-resident Alien",2019,"2019",22243,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.05963862367044452
-"white","White",2019,"2019",235965,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6326766998334955
-"asian","Asian",2019,"2019",50,"Berea College","156295","berea-college",0.029708853238265002
-"black","Black or African American",2019,"2019",277,"Berea College","156295","berea-college",0.16458704693998813
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2019,"2019",2,"Berea College","156295","berea-college",0.0011883541295306002
-"hispanic","Hispanic or Latino",2019,"2019",215,"Berea College","156295","berea-college",0.12774806892453952
-"multiracial","Two or More Races",2019,"2019",130,"Berea College","156295","berea-college",0.07724301841948901
-"native","American Indian or Alaska Native",2019,"2019",1,"Berea College","156295","berea-college",0.0005941770647653001
-"nonresident","Non-resident Alien",2019,"2019",128,"Berea College","156295","berea-college",0.07605466428995841
-"white","White",2019,"2019",880,"Berea College","156295","berea-college",0.5228758169934641
-"asian","Asian",2018,"2018",35275,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03992303992303992
-"black","Black or African American",2018,"2018",130402,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14758452876099934
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2018,"2018",2202,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.002492148374501316
-"hispanic","Hispanic or Latino",2018,"2018",118143,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.13371021135727018
-"multiracial","Two or More Races",2018,"2018",33812,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03826726650256062
-"native","American Indian or Alaska Native",2018,"2018",6353,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0071901083665789544
-"nonresident","Non-resident Alien",2018,"2018",45031,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.05096454743513567
-"white","White",2018,"2018",512357,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.579868149279914
-"asian","Asian",2018,"2018",16722,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.043926080617833645
-"black","Black or African American",2018,"2018",44271,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11629299814807519
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2018,"2018",578,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0015183156678093437
-"hispanic","Hispanic or Latino",2018,"2018",36660,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0963000906261082
-"multiracial","Two or More Races",2018,"2018",15092,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03964432536086265
-"native","American Indian or Alaska Native",2018,"2018",2495,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006553975071253135
-"nonresident","Non-resident Alien",2018,"2018",22285,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.05853921220956959
-"white","White",2018,"2018",242582,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6372250022984882
-"asian","Asian",2018,"2018",46,"Berea College","156295","berea-college",0.027710843373493974
-"black","Black or African American",2018,"2018",263,"Berea College","156295","berea-college",0.15843373493975904
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2018,"2018",1,"Berea College","156295","berea-college",0.0006024096385542169
-"hispanic","Hispanic or Latino",2018,"2018",195,"Berea College","156295","berea-college",0.11746987951807229
-"multiracial","Two or More Races",2018,"2018",111,"Berea College","156295","berea-college",0.06686746987951807
-"native","American Indian or Alaska Native",2018,"2018",2,"Berea College","156295","berea-college",0.0012048192771084338
-"nonresident","Non-resident Alien",2018,"2018",128,"Berea College","156295","berea-college",0.07710843373493977
-"white","White",2018,"2018",914,"Berea College","156295","berea-college",0.5506024096385542
-"asian","Asian",2017,"2017",34661,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.038687692400420574
-"black","Black or African American",2017,"2017",132142,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14749340899501964
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2017,"2017",2251,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.00251250672494581
-"hispanic","Hispanic or Latino",2017,"2017",118698,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.13248757140720469
-"multiracial","Two or More Races",2017,"2017",32257,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03600441111798178
-"native","American Indian or Alaska Native",2017,"2017",6326,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007060914056866811
-"nonresident","Non-resident Alien",2017,"2017",47175,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.05265548856033699
-"white","White",2017,"2017",522408,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5830980067372237
-"asian","Asian",2017,"2017",16521,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04311460692923578
-"black","Black or African American",2017,"2017",44096,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.115076672547157
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2017,"2017",489,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.001276135995908014
-"hispanic","Hispanic or Latino",2017,"2017",35544,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.09275864588661441
-"multiracial","Two or More Races",2017,"2017",14831,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03870423917241667
-"native","American Indian or Alaska Native",2017,"2017",2545,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006641648485860727
-"nonresident","Non-resident Alien",2017,"2017",22109,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.057697527062434105
-"white","White",2017,"2017",247053,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6447305239203733
-"asian","Asian",2017,"2017",34,"Berea College","156295","berea-college",0.020531400966183576
-"black","Black or African American",2017,"2017",249,"Berea College","156295","berea-college",0.1503623188405797
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2017,"2017",1,"Berea College","156295","berea-college",0.0006038647342995169
-"hispanic","Hispanic or Latino",2017,"2017",185,"Berea College","156295","berea-college",0.11171497584541062
-"multiracial","Two or More Races",2017,"2017",106,"Berea College","156295","berea-college",0.0640096618357488
-"native","American Indian or Alaska Native",2017,"2017",3,"Berea College","156295","berea-college",0.0018115942028985507
-"nonresident","Non-resident Alien",2017,"2017",128,"Berea College","156295","berea-college",0.07729468599033816
-"white","White",2017,"2017",950,"Berea College","156295","berea-college",0.5736714975845411
-"asian","Asian",2016,"2016",34165,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03776769853052534
-"black","Black or African American",2016,"2016",133239,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.1472890497441436
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2016,"2016",2274,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0025137932521122385
-"hispanic","Hispanic or Latino",2016,"2016",118276,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.13074820170924675
-"multiracial","Two or More Races",2016,"2016",30752,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0339947977523991
-"native","American Indian or Alaska Native",2016,"2016",6601,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007297075310990715
-"nonresident","Non-resident Alien",2016,"2016",44523,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.049217949412398064
-"white","White",2016,"2016",534779,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5911714342881842
-"asian","Asian",2016,"2016",16346,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.042495222992031824
-"black","Black or African American",2016,"2016",43566,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11325993422677465
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2016,"2016",480,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0012478714692386683
-"hispanic","Hispanic or Latino",2016,"2016",34590,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.08992473775201154
-"multiracial","Two or More Races",2016,"2016",14272,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03710337835202974
-"native","American Indian or Alaska Native",2016,"2016",2668,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006936085583184932
-"nonresident","Non-resident Alien",2016,"2016",21690,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.056388192016222326
-"white","White",2016,"2016",251043,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6526445776085064
-"asian","Asian",2016,"2016",32,"Berea College","156295","berea-college",0.019476567255021303
-"black","Black or African American",2016,"2016",242,"Berea College","156295","berea-college",0.1472915398660986
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2016,"2016",3,"Berea College","156295","berea-college",0.0018259281801582471
-"hispanic","Hispanic or Latino",2016,"2016",157,"Berea College","156295","berea-college",0.09555690809494827
-"multiracial","Two or More Races",2016,"2016",101,"Berea College","156295","berea-college",0.06147291539866099
-"native","American Indian or Alaska Native",2016,"2016",4,"Berea College","156295","berea-college",0.002434570906877663
-"nonresident","Non-resident Alien",2016,"2016",127,"Berea College","156295","berea-college",0.0772976262933658
-"white","White",2016,"2016",977,"Berea College","156295","berea-college",0.5946439440048692
-"asian","Asian",2015,"2015",32700,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.036264632002705986
-"black","Black or African American",2015,"2015",133780,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.14836337826672802
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2015,"2015",2098,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0023267033009687203
-"hispanic","Hispanic or Latino",2015,"2015",114485,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.1269650273648255
-"multiracial","Two or More Races",2015,"2015",28958,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03211471601022507
-"native","American Indian or Alaska Native",2015,"2015",6599,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007318357999567486
-"nonresident","Non-resident Alien",2015,"2015",43255,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.047970234167493804
-"white","White",2015,"2015",539830,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.5986769508874854
-"asian","Asian",2015,"2015",16094,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04159677440198498
-"black","Black or African American",2015,"2015",43393,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11215414636667916
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2015,"2015",442,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.001142399296985048
-"hispanic","Hispanic or Latino",2015,"2015",33240,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.08591256251534614
-"multiracial","Two or More Races",2015,"2015",13920,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03597782401364676
-"native","American Indian or Alaska Native",2015,"2015",2607,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006738088161176516
-"nonresident","Non-resident Alien",2015,"2015",21230,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.054871350848399475
-"white","White",2015,"2015",255979,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6616068543957819
-"asian","Asian",2015,"2015",24,"Berea College","156295","berea-college",0.015065913370998116
-"black","Black or African American",2015,"2015",250,"Berea College","156295","berea-college",0.15693659761456372
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2015,"2015",3,"Berea College","156295","berea-college",0.0018832391713747645
-"hispanic","Hispanic or Latino",2015,"2015",133,"Berea College","156295","berea-college",0.0834902699309479
-"multiracial","Two or More Races",2015,"2015",84,"Berea College","156295","berea-college",0.05273069679849341
-"native","American Indian or Alaska Native",2015,"2015",5,"Berea College","156295","berea-college",0.003138731952291274
-"nonresident","Non-resident Alien",2015,"2015",127,"Berea College","156295","berea-college",0.07972379158819837
-"white","White",2015,"2015",967,"Berea College","156295","berea-college",0.6070307595731325
-"asian","Asian",2014,"2014",32246,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.035979964763155514
-"black","Black or African American",2014,"2014",134497,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.150071243588356
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2014,"2014",2263,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.002525046835546143
-"hispanic","Hispanic or Latino",2014,"2014",110428,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.12321514447887295
-"multiracial","Two or More Races",2014,"2014",26242,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.029280724285639367
-"native","American Indian or Alaska Native",2014,"2014",6453,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007200232978249784
-"nonresident","Non-resident Alien",2014,"2014",38604,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.04307419710093827
-"white","White",2014,"2014",545488,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.608653445969242
-"asian","Asian",2014,"2014",15896,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.04076148275791331
-"black","Black or African American",2014,"2014",43305,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.11104529509508278
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2014,"2014",424,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0010872463946499271
-"hispanic","Hispanic or Latino",2014,"2014",32131,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.08239224977947361
-"multiracial","Two or More Races",2014,"2014",13094,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03357642521591072
-"native","American Indian or Alaska Native",2014,"2014",2513,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006443986296592611
-"nonresident","Non-resident Alien",2014,"2014",20204,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.051808316409214926
-"white","White",2014,"2014",262409,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6728849980511621
-"asian","Asian",2014,"2014",26,"Berea College","156295","berea-college",0.016341923318667503
-"black","Black or African American",2014,"2014",242,"Berea College","156295","berea-college",0.15210559396605908
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2014,"2014",3,"Berea College","156295","berea-college",0.0018856065367693275
-"hispanic","Hispanic or Latino",2014,"2014",95,"Berea College","156295","berea-college",0.059710873664362035
-"multiracial","Two or More Races",2014,"2014",88,"Berea College","156295","berea-college",0.05531112507856694
-"native","American Indian or Alaska Native",2014,"2014",2,"Berea College","156295","berea-college",0.001257071024512885
-"nonresident","Non-resident Alien",2014,"2014",125,"Berea College","156295","berea-college",0.0785669390320553
-"white","White",2014,"2014",1010,"Berea College","156295","berea-college",0.6348208673790069
-"asian","Asian",2013,"2013",30524,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03414478085100195
-"black","Black or African American",2013,"2013",134374,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.15031354940612424
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2013,"2013",2161,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0024173395170690344
-"hispanic","Hispanic or Latino",2013,"2013",106602,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.11924721295631338
-"multiracial","Two or More Races",2013,"2013",24774,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.027712711335431867
-"native","American Indian or Alaska Native",2013,"2013",6875,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007690517899051186
-"nonresident","Non-resident Alien",2013,"2013",34160,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03821208602641287
-"white","White",2013,"2013",554488,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.6202618020085955
-"asian","Asian",2013,"2013",15451,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.039499349389397476
-"black","Black or African American",2013,"2013",42647,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.10902393071060994
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2013,"2013",484,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.001237310536824049
-"hispanic","Hispanic or Latino",2013,"2013",30929,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.07906772230047729
-"multiracial","Two or More Races",2013,"2013",12525,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03201924478041573
-"native","American Indian or Alaska Native",2013,"2013",2526,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.006457533917391627
-"nonresident","Non-resident Alien",2013,"2013",18629,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.047623673534081
-"white","White",2013,"2013",267980,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6850712348308029
-"asian","Asian",2013,"2013",26,"Berea College","156295","berea-college",0.0163727959697733
-"black","Black or African American",2013,"2013",240,"Berea College","156295","berea-college",0.15113350125944586
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2013,"2013",3,"Berea College","156295","berea-college",0.001889168765743073
-"hispanic","Hispanic or Latino",2013,"2013",70,"Berea College","156295","berea-college",0.04408060453400504
-"multiracial","Two or More Races",2013,"2013",82,"Berea College","156295","berea-college",0.05163727959697733
-"native","American Indian or Alaska Native",2013,"2013",4,"Berea College","156295","berea-college",0.0025188916876574307
-"nonresident","Non-resident Alien",2013,"2013",124,"Berea College","156295","berea-college",0.07808564231738035
-"white","White",2013,"2013",1039,"Berea College","156295","berea-college",0.6542821158690176
-"asian","Asian",2012,"2012",28877,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03257655665672046
-"black","Black or African American",2012,"2012",134968,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.15225933091540836
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2012,"2012",2189,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.0024694422038840976
-"hispanic","Hispanic or Latino",2012,"2012",102184,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.11527523168647448
-"multiracial","Two or More Races",2012,"2012",20403,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.023016916073936612
-"native","American Indian or Alaska Native",2012,"2012",6935,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.007823472674251356
-"nonresident","Non-resident Alien",2012,"2012",31745,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.03581198847067185
-"white","White",2012,"2012",559134,"Baccalaureate Colleges","BAC","baccalaureate-colleges",0.6307670613186528
-"asian","Asian",2012,"2012",14845,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.03790083741830065
-"black","Black or African American",2012,"2012",42845,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.10938776552287582
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2012,"2012",467,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0011922998366013073
-"hispanic","Hispanic or Latino",2012,"2012",28701,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0732766544117647
-"multiracial","Two or More Races",2012,"2012",11107,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.02835733251633987
-"native","American Indian or Alaska Native",2012,"2012",2445,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.00624234068627451
-"nonresident","Non-resident Alien",2012,"2012",17819,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.0454937704248366
-"white","White",2012,"2012",273451,"Baccalaureate Colleges: Arts & Sciences Focus","21","baccalaureate-colleges-arts-sciences-focus",0.6981489991830065
-"asian","Asian",2012,"2012",21,"Berea College","156295","berea-college",0.012995049504950494
-"black","Black or African American",2012,"2012",231,"Berea College","156295","berea-college",0.14294554455445543
-"hawaiian","Native Hawaiian or Other Pacific Islanders",2012,"2012",0,"Berea College","156295","berea-college",0
-"hispanic","Hispanic or Latino",2012,"2012",68,"Berea College","156295","berea-college",0.04207920792079208
-"multiracial","Two or More Races",2012,"2012",93,"Berea College","156295","berea-college",0.05754950495049505
-"native","American Indian or Alaska Native",2012,"2012",6,"Berea College","156295","berea-college",0.0037128712871287127
-"nonresident","Non-resident Alien",2012,"2012",117,"Berea College","156295","berea-college",0.0724009900990099
-"white","White",2012,"2012",1080,"Berea College","156295","berea-college",0.6683168316831684
+ID IPEDS Race,IPEDS_Race,ID Year,Year,Enrollment,University,ID University,Slug University,share
+asian,Asian,2022,2022,35689,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.043736251616105296
+black,Black or African American,2022,2022,112349,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.1376817544010147
+hawaiian,Native Hawaiian or Other Pacific Islanders,2022,2022,2044,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002504887
+hispanic,Hispanic or Latino,2022,2022,117930,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14452117327712452
+multiracial,Two or More Races,2022,2022,33749,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.041358815203338214
+native,American Indian or Alaska Native,2022,2022,6334,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007762207
+nonresident,Non-resident Alien,2022,2022,42268,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.051798702
+white,White,2022,2022,465642,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5706362093369526
+asian,Asian,2022,2022,17218,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.047621945
+black,Black or African American,2022,2022,41801,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11561417871643674
+hawaiian,Native Hawaiian or Other Pacific Islanders,2022,2022,504,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001393975
+hispanic,Hispanic or Latino,2022,2022,38326,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.10600294283596455
+multiracial,Two or More Races,2022,2022,16913,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.046778369
+native,American Indian or Alaska Native,2022,2022,2486,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006875837
+nonresident,Non-resident Alien,2022,2022,22037,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.060950448
+white,White,2022,2022,222271,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6147623051477503
+asian,Asian,2022,2022,55,Berea College,156295,berea-college,0.038896746817538894
+black,Black or African American,2022,2022,264,Berea College,156295,berea-college,0.1867043847241867
+hawaiian,Native Hawaiian or Other Pacific Islanders,2022,2022,1,Berea College,156295,berea-college,0.000707214
+hispanic,Hispanic or Latino,2022,2022,218,Berea College,156295,berea-college,0.15417256011315417
+multiracial,Two or More Races,2022,2022,125,Berea College,156295,berea-college,0.088401697
+native,American Indian or Alaska Native,2022,2022,0,Berea College,156295,berea-college,0
+nonresident,Non-resident Alien,2022,2022,119,Berea College,156295,berea-college,0.084158416
+white,White,2022,2022,632,Berea College,156295,berea-college,0.44695898161244696
+asian,Asian,2021,2021,34707,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.04266705
+black,Black or African American,2021,2021,114981,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14135189160083497
+hawaiian,Native Hawaiian or Other Pacific Islanders,2021,2021,2125,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002612369
+hispanic,Hispanic or Latino,2021,2021,113880,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.1399983772580086
+multiracial,Two or More Races,2021,2021,37060,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.045559711
+native,American Indian or Alaska Native,2021,2021,6461,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.00794283
+nonresident,Non-resident Alien,2021,2021,36406,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.044755715862794705
+white,White,2021,2021,467818,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5751120552519061
+asian,Asian,2021,2021,16885,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.046579182
+black,Black or African American,2021,2021,41522,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11454313229480746
+hawaiian,Native Hawaiian or Other Pacific Islanders,2021,2021,487,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001343445
+hispanic,Hispanic or Latino,2021,2021,37935,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.1046479871779664
+multiracial,Two or More Races,2021,2021,16442,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.045357116
+native,American Indian or Alaska Native,2021,2021,2767,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.007633082
+nonresident,Non-resident Alien,2021,2021,20928,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.057732255
+white,White,2021,2021,225535,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6221638009274457
+asian,Asian,2021,2021,54,Berea College,156295,berea-college,0.037062457
+black,Black or African American,2021,2021,268,Berea College,156295,berea-college,0.18393960192175704
+hawaiian,Native Hawaiian or Other Pacific Islanders,2021,2021,2,Berea College,156295,berea-college,0.001372684
+hispanic,Hispanic or Latino,2021,2021,208,Berea College,156295,berea-college,0.14275909402882636
+multiracial,Two or More Races,2021,2021,126,Berea College,156295,berea-college,0.086479067
+native,American Indian or Alaska Native,2021,2021,0,Berea College,156295,berea-college,0
+nonresident,Non-resident Alien,2021,2021,115,Berea College,156295,berea-college,0.078929307
+white,White,2021,2021,684,Berea College,156295,berea-college,0.46945778997940973
+asian,Asian,2020,2020,34234,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.041273729923152785
+black,Black or African American,2020,2020,118736,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14315235135115584
+hawaiian,Native Hawaiian or Other Pacific Islanders,2020,2020,2129,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002566798
+hispanic,Hispanic or Latino,2020,2020,115857,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.13968132639208716
+multiracial,Two or More Races,2020,2020,35489,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.042786803
+native,American Indian or Alaska Native,2020,2020,6552,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007899325
+nonresident,Non-resident Alien,2020,2020,39888,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.048090394
+white,White,2020,2020,476553,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5745492731222828
+asian,Asian,2020,2020,16321,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.045381997352879025
+black,Black or African American,2020,2020,41606,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11568919685459743
+hawaiian,Native Hawaiian or Other Pacific Islanders,2020,2020,503,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001398636
+hispanic,Hispanic or Latino,2020,2020,37948,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.10551780133245837
+multiracial,Two or More Races,2020,2020,15771,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.043852673258516946
+native,American Indian or Alaska Native,2020,2020,2704,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.007518713
+nonresident,Non-resident Alien,2020,2020,19285,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.053623664
+white,White,2020,2020,225498,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6270173175099267
+asian,Asian,2020,2020,43,Berea College,156295,berea-college,0.030196629213483147
+black,Black or African American,2020,2020,252,Berea College,156295,berea-college,0.17696629213483145
+hawaiian,Native Hawaiian or Other Pacific Islanders,2020,2020,2,Berea College,156295,berea-college,0.001404494
+hispanic,Hispanic or Latino,2020,2020,202,Berea College,156295,berea-college,0.14185393258426968
+multiracial,Two or More Races,2020,2020,122,Berea College,156295,berea-college,0.085674157
+native,American Indian or Alaska Native,2020,2020,1,Berea College,156295,berea-college,0.000702247
+nonresident,Non-resident Alien,2020,2020,91,Berea College,156295,berea-college,0.063904494
+white,White,2020,2020,711,Berea College,156295,berea-college,0.49929775280898875
+asian,Asian,2019,2019,33951,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.039943293
+black,Black or African American,2019,2019,124482,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14645285771429917
+hawaiian,Native Hawaiian or Other Pacific Islanders,2019,2019,2138,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002515353
+hispanic,Hispanic or Latino,2019,2019,116429,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.1369785171415798
+multiracial,Two or More Races,2019,2019,34370,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.040436246
+native,American Indian or Alaska Native,2019,2019,6387,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007514294
+nonresident,Non-resident Alien,2019,2019,41365,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.048665851
+white,White,2019,2019,490858,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5774935880844255
+asian,Asian,2019,2019,16562,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.04440655
+black,Black or African American,2019,2019,42260,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11330882688095066
+hawaiian,Native Hawaiian or Other Pacific Islanders,2019,2019,546,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001463952
+hispanic,Hispanic or Latino,2019,2019,37299,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.10000723932400801
+multiracial,Two or More Races,2019,2019,15541,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.041669013
+native,American Indian or Alaska Native,2019,2019,2547,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006829096
+nonresident,Non-resident Alien,2019,2019,22243,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.059638624
+white,White,2019,2019,235965,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6326766998334955
+asian,Asian,2019,2019,50,Berea College,156295,berea-college,0.029708853238265002
+black,Black or African American,2019,2019,277,Berea College,156295,berea-college,0.16458704693998813
+hawaiian,Native Hawaiian or Other Pacific Islanders,2019,2019,2,Berea College,156295,berea-college,0.001188354
+hispanic,Hispanic or Latino,2019,2019,215,Berea College,156295,berea-college,0.12774806892453952
+multiracial,Two or More Races,2019,2019,130,Berea College,156295,berea-college,0.077243018
+native,American Indian or Alaska Native,2019,2019,1,Berea College,156295,berea-college,0.000594177
+nonresident,Non-resident Alien,2019,2019,128,Berea College,156295,berea-college,0.076054664
+white,White,2019,2019,880,Berea College,156295,berea-college,0.5228758169934641
+asian,Asian,2018,2018,35275,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.03992304
+black,Black or African American,2018,2018,130402,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14758452876099934
+hawaiian,Native Hawaiian or Other Pacific Islanders,2018,2018,2202,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002492148
+hispanic,Hispanic or Latino,2018,2018,118143,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.13371021135727018
+multiracial,Two or More Races,2018,2018,33812,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.038267267
+native,American Indian or Alaska Native,2018,2018,6353,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007190108
+nonresident,Non-resident Alien,2018,2018,45031,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.050964547
+white,White,2018,2018,512357,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.579868149
+asian,Asian,2018,2018,16722,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.043926080617833645
+black,Black or African American,2018,2018,44271,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11629299814807519
+hawaiian,Native Hawaiian or Other Pacific Islanders,2018,2018,578,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001518316
+hispanic,Hispanic or Latino,2018,2018,36660,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.096300091
+multiracial,Two or More Races,2018,2018,15092,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.039644325
+native,American Indian or Alaska Native,2018,2018,2495,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006553975
+nonresident,Non-resident Alien,2018,2018,22285,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.058539212
+white,White,2018,2018,242582,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6372250022984882
+asian,Asian,2018,2018,46,Berea College,156295,berea-college,0.027710843373493974
+black,Black or African American,2018,2018,263,Berea College,156295,berea-college,0.15843373493975904
+hawaiian,Native Hawaiian or Other Pacific Islanders,2018,2018,1,Berea College,156295,berea-college,0.00060241
+hispanic,Hispanic or Latino,2018,2018,195,Berea College,156295,berea-college,0.11746987951807229
+multiracial,Two or More Races,2018,2018,111,Berea College,156295,berea-college,0.06686747
+native,American Indian or Alaska Native,2018,2018,2,Berea College,156295,berea-college,0.001204819
+nonresident,Non-resident Alien,2018,2018,128,Berea College,156295,berea-college,0.077108434
+white,White,2018,2018,914,Berea College,156295,berea-college,0.5506024096385542
+asian,Asian,2017,2017,34661,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.038687692400420574
+black,Black or African American,2017,2017,132142,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14749340899501964
+hawaiian,Native Hawaiian or Other Pacific Islanders,2017,2017,2251,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002512507
+hispanic,Hispanic or Latino,2017,2017,118698,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.13248757140720469
+multiracial,Two or More Races,2017,2017,32257,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.036004411
+native,American Indian or Alaska Native,2017,2017,6326,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007060914
+nonresident,Non-resident Alien,2017,2017,47175,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.052655489
+white,White,2017,2017,522408,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5830980067372237
+asian,Asian,2017,2017,16521,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.043114607
+black,Black or African American,2017,2017,44096,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.115076673
+hawaiian,Native Hawaiian or Other Pacific Islanders,2017,2017,489,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001276136
+hispanic,Hispanic or Latino,2017,2017,35544,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.092758646
+multiracial,Two or More Races,2017,2017,14831,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.038704239
+native,American Indian or Alaska Native,2017,2017,2545,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006641648
+nonresident,Non-resident Alien,2017,2017,22109,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.057697527062434105
+white,White,2017,2017,247053,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6447305239203733
+asian,Asian,2017,2017,34,Berea College,156295,berea-college,0.020531400966183576
+black,Black or African American,2017,2017,249,Berea College,156295,berea-college,0.1503623188405797
+hawaiian,Native Hawaiian or Other Pacific Islanders,2017,2017,1,Berea College,156295,berea-college,0.000603865
+hispanic,Hispanic or Latino,2017,2017,185,Berea College,156295,berea-college,0.11171497584541062
+multiracial,Two or More Races,2017,2017,106,Berea College,156295,berea-college,0.064009662
+native,American Indian or Alaska Native,2017,2017,3,Berea College,156295,berea-college,0.001811594
+nonresident,Non-resident Alien,2017,2017,128,Berea College,156295,berea-college,0.077294686
+white,White,2017,2017,950,Berea College,156295,berea-college,0.5736714975845411
+asian,Asian,2016,2016,34165,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.037767699
+black,Black or African American,2016,2016,133239,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.1472890497441436
+hawaiian,Native Hawaiian or Other Pacific Islanders,2016,2016,2274,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002513793
+hispanic,Hispanic or Latino,2016,2016,118276,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.13074820170924675
+multiracial,Two or More Races,2016,2016,30752,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.033994798
+native,American Indian or Alaska Native,2016,2016,6601,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007297075
+nonresident,Non-resident Alien,2016,2016,44523,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.049217949412398064
+white,White,2016,2016,534779,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5911714342881842
+asian,Asian,2016,2016,16346,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.042495222992031824
+black,Black or African American,2016,2016,43566,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11325993422677465
+hawaiian,Native Hawaiian or Other Pacific Islanders,2016,2016,480,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001247871
+hispanic,Hispanic or Latino,2016,2016,34590,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.089924738
+multiracial,Two or More Races,2016,2016,14272,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.037103378
+native,American Indian or Alaska Native,2016,2016,2668,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006936086
+nonresident,Non-resident Alien,2016,2016,21690,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.056388192016222326
+white,White,2016,2016,251043,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6526445776085064
+asian,Asian,2016,2016,32,Berea College,156295,berea-college,0.019476567255021303
+black,Black or African American,2016,2016,242,Berea College,156295,berea-college,0.1472915398660986
+hawaiian,Native Hawaiian or Other Pacific Islanders,2016,2016,3,Berea College,156295,berea-college,0.001825928
+hispanic,Hispanic or Latino,2016,2016,157,Berea College,156295,berea-college,0.095556908
+multiracial,Two or More Races,2016,2016,101,Berea College,156295,berea-college,0.061472915
+native,American Indian or Alaska Native,2016,2016,4,Berea College,156295,berea-college,0.002434571
+nonresident,Non-resident Alien,2016,2016,127,Berea College,156295,berea-college,0.077297626
+white,White,2016,2016,977,Berea College,156295,berea-college,0.5946439440048692
+asian,Asian,2015,2015,32700,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.036264632002705986
+black,Black or African American,2015,2015,133780,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.14836337826672802
+hawaiian,Native Hawaiian or Other Pacific Islanders,2015,2015,2098,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002326703
+hispanic,Hispanic or Latino,2015,2015,114485,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.1269650273648255
+multiracial,Two or More Races,2015,2015,28958,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.032114716
+native,American Indian or Alaska Native,2015,2015,6599,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007318358
+nonresident,Non-resident Alien,2015,2015,43255,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.047970234167493804
+white,White,2015,2015,539830,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.5986769508874854
+asian,Asian,2015,2015,16094,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.041596774
+black,Black or African American,2015,2015,43393,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11215414636667916
+hawaiian,Native Hawaiian or Other Pacific Islanders,2015,2015,442,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001142399
+hispanic,Hispanic or Latino,2015,2015,33240,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.085912563
+multiracial,Two or More Races,2015,2015,13920,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.035977824
+native,American Indian or Alaska Native,2015,2015,2607,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006738088
+nonresident,Non-resident Alien,2015,2015,21230,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.054871350848399475
+white,White,2015,2015,255979,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6616068543957819
+asian,Asian,2015,2015,24,Berea College,156295,berea-college,0.015065913370998116
+black,Black or African American,2015,2015,250,Berea College,156295,berea-college,0.15693659761456372
+hawaiian,Native Hawaiian or Other Pacific Islanders,2015,2015,3,Berea College,156295,berea-college,0.001883239
+hispanic,Hispanic or Latino,2015,2015,133,Berea College,156295,berea-college,0.08349027
+multiracial,Two or More Races,2015,2015,84,Berea College,156295,berea-college,0.052730697
+native,American Indian or Alaska Native,2015,2015,5,Berea College,156295,berea-college,0.003138732
+nonresident,Non-resident Alien,2015,2015,127,Berea College,156295,berea-college,0.079723792
+white,White,2015,2015,967,Berea College,156295,berea-college,0.6070307595731325
+asian,Asian,2014,2014,32246,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.035979964763155514
+black,Black or African American,2014,2014,134497,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.150071244
+hawaiian,Native Hawaiian or Other Pacific Islanders,2014,2014,2263,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002525047
+hispanic,Hispanic or Latino,2014,2014,110428,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.12321514447887295
+multiracial,Two or More Races,2014,2014,26242,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.029280724285639367
+native,American Indian or Alaska Native,2014,2014,6453,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007200233
+nonresident,Non-resident Alien,2014,2014,38604,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.043074197
+white,White,2014,2014,545488,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.608653446
+asian,Asian,2014,2014,15896,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.040761483
+black,Black or African American,2014,2014,43305,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.11104529509508278
+hawaiian,Native Hawaiian or Other Pacific Islanders,2014,2014,424,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001087246
+hispanic,Hispanic or Latino,2014,2014,32131,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.08239225
+multiracial,Two or More Races,2014,2014,13094,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.033576425
+native,American Indian or Alaska Native,2014,2014,2513,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006443986
+nonresident,Non-resident Alien,2014,2014,20204,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.051808316409214926
+white,White,2014,2014,262409,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6728849980511621
+asian,Asian,2014,2014,26,Berea College,156295,berea-college,0.016341923318667503
+black,Black or African American,2014,2014,242,Berea College,156295,berea-college,0.15210559396605908
+hawaiian,Native Hawaiian or Other Pacific Islanders,2014,2014,3,Berea College,156295,berea-college,0.001885607
+hispanic,Hispanic or Latino,2014,2014,95,Berea College,156295,berea-college,0.059710873664362035
+multiracial,Two or More Races,2014,2014,88,Berea College,156295,berea-college,0.055311125
+native,American Indian or Alaska Native,2014,2014,2,Berea College,156295,berea-college,0.001257071
+nonresident,Non-resident Alien,2014,2014,125,Berea College,156295,berea-college,0.078566939
+white,White,2014,2014,1010,Berea College,156295,berea-college,0.6348208673790069
+asian,Asian,2013,2013,30524,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.034144781
+black,Black or African American,2013,2013,134374,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.15031354940612424
+hawaiian,Native Hawaiian or Other Pacific Islanders,2013,2013,2161,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.00241734
+hispanic,Hispanic or Latino,2013,2013,106602,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.11924721295631338
+multiracial,Two or More Races,2013,2013,24774,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.027712711335431867
+native,American Indian or Alaska Native,2013,2013,6875,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007690518
+nonresident,Non-resident Alien,2013,2013,34160,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.038212086
+white,White,2013,2013,554488,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.6202618020085955
+asian,Asian,2013,2013,15451,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.039499349389397476
+black,Black or African American,2013,2013,42647,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.10902393071060994
+hawaiian,Native Hawaiian or Other Pacific Islanders,2013,2013,484,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.001237311
+hispanic,Hispanic or Latino,2013,2013,30929,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.079067722
+multiracial,Two or More Races,2013,2013,12525,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.032019245
+native,American Indian or Alaska Native,2013,2013,2526,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006457534
+nonresident,Non-resident Alien,2013,2013,18629,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.047623674
+white,White,2013,2013,267980,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6850712348308029
+asian,Asian,2013,2013,26,Berea College,156295,berea-college,0.016372796
+black,Black or African American,2013,2013,240,Berea College,156295,berea-college,0.15113350125944586
+hawaiian,Native Hawaiian or Other Pacific Islanders,2013,2013,3,Berea College,156295,berea-college,0.001889169
+hispanic,Hispanic or Latino,2013,2013,70,Berea College,156295,berea-college,0.044080605
+multiracial,Two or More Races,2013,2013,82,Berea College,156295,berea-college,0.05163728
+native,American Indian or Alaska Native,2013,2013,4,Berea College,156295,berea-college,0.002518892
+nonresident,Non-resident Alien,2013,2013,124,Berea College,156295,berea-college,0.078085642
+white,White,2013,2013,1039,Berea College,156295,berea-college,0.6542821158690176
+asian,Asian,2012,2012,28877,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.032576557
+black,Black or African American,2012,2012,134968,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.15225933091540836
+hawaiian,Native Hawaiian or Other Pacific Islanders,2012,2012,2189,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.002469442
+hispanic,Hispanic or Latino,2012,2012,102184,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.11527523168647448
+multiracial,Two or More Races,2012,2012,20403,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.023016916073936612
+native,American Indian or Alaska Native,2012,2012,6935,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.007823473
+nonresident,Non-resident Alien,2012,2012,31745,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.035811988
+white,White,2012,2012,559134,Baccalaureate Colleges,BAC,baccalaureate-colleges,0.6307670613186528
+asian,Asian,2012,2012,14845,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.037900837
+black,Black or African American,2012,2012,42845,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.10938776552287582
+hawaiian,Native Hawaiian or Other Pacific Islanders,2012,2012,467,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.0011923
+hispanic,Hispanic or Latino,2012,2012,28701,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.073276654
+multiracial,Two or More Races,2012,2012,11107,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.028357333
+native,American Indian or Alaska Native,2012,2012,2445,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.006242341
+nonresident,Non-resident Alien,2012,2012,17819,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.04549377
+white,White,2012,2012,273451,Baccalaureate Colleges: Arts & Sciences Focus,21,baccalaureate-colleges-arts-sciences-focus,0.6981489991830065
+asian,Asian,2012,2012,21,Berea College,156295,berea-college,0.012995049504950494
+black,Black or African American,2012,2012,231,Berea College,156295,berea-college,0.14294554455445543
+hawaiian,Native Hawaiian or Other Pacific Islanders,2012,2012,0,Berea College,156295,berea-college,0
+hispanic,Hispanic or Latino,2012,2012,68,Berea College,156295,berea-college,0.042079208
+multiracial,Two or More Races,2012,2012,93,Berea College,156295,berea-college,0.057549505
+native,American Indian or Alaska Native,2012,2012,6,Berea College,156295,berea-college,0.003712871
+nonresident,Non-resident Alien,2012,2012,117,Berea College,156295,berea-college,0.07240099
+white,White,2012,2012,1080,Berea College,156295,berea-college,0.6683168316831684
