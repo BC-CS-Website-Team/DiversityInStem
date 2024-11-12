@@ -31,3 +31,7 @@ os.makedirs(os.path.dirname(output_file), exist_ok=True)
 df_filtered.to_csv(output_file, index=False)
 
 print(f"Processed data has been saved to {output_file}")
+
+
+# use head method on df to display the first few rows of the dataset
+print("First few rows of the dataset:")
